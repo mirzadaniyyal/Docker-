@@ -34,6 +34,9 @@ and after verify the installation
 $ docker -v
 
 $ sudo docker run hello-world
+showing this message
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
 
 Docker install by source
 
