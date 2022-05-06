@@ -1,0 +1,9 @@
+Install Docker with Linux
+Official Ubuntu Repositories
+$ sudo apt-get install docker.io
+
+and after verify the installation
+
+$ docker -v
+
+$ sudo docker run hello-world
